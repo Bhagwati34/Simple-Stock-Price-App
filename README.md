@@ -1,1 +1,2 @@
 # Simple-Stock-Price-App
+In this app, the user input the company name and start date, and end date to analyze the stock price of the company. Built using Streamlit Python library makes it easy to create and share beautiful, custom web apps for machine learning and data science. yfinance Python library to downloads the Stock Price data it also allows us to download all the financial data of a Company since its listing in the stock market.
